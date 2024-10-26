@@ -42,7 +42,7 @@ Follow these steps to get started with the Fibonacci Sequence Generator:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/fibonacci-sequence-generator.git
+   git clone https://github.com/mahditalaldev/fibonacci-sequence-generator.git
    cd fibonacci-sequence-generator
    ```
 
