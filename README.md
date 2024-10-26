@@ -28,8 +28,10 @@ Here's a quick look at the structure of this project:
 
 ```
 fibonacci-sequence-generator/
-├── fibonacci.py          # Main Python file for generating Fibonacci sequence
-└── README.md             # Project overview and setup guide
+├── fibonacci_with_list.py          # Python file for generating Fibonacci sequence using a list
+├── fibonacci_without_list.py       # Python file for generating Fibonacci sequence without using a list
+└── README.md                       # Project overview, setup guide, and documentation
+
 ```
 
 ---
@@ -98,10 +100,6 @@ This project is open-source and available under the MIT License. Feel free to us
 
 ---
 
-## 🏆 Acknowledgements
 
-Thanks to [Charbel Daoud](https://github.com/charbel-daoud) for providing the inspiration for this Fibonacci sequence exercise.
-
---- 
 
 Hope you enjoy learning with the **Fibonacci Sequence Generator**!
